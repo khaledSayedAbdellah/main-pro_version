@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"  xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>mainPro_customer</title>
-    <link>http://sparkle-project.org/files/sparkletestcast.xml</link>
+    <link>https://github.com/khaledSayedAbdellah/main-pro_version/blob/main/customer.xml</link>
     <description>Most recent changes with links to updates.</description>
     <language>en</language>
       <item>
