@@ -3,10 +3,10 @@
     <channel>
         <title>mainPro_customer - Appcast</title>
         <item>
-            <title>Version 1.1.30</title>
+            <title>Version 1.1.00</title>
             <description>desc</description>
             <pubDate>Sun, 13 Nov 2022 12:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.Musllaha" sparkle:version="1.1.30" sparkle:os="android" />
+            <enclosure url="https://play.google.com/store/apps/details?id=com.Musllaha" sparkle:version="1.1.0" sparkle:os="android" />
         </item>
     </channel>
 </rss>
