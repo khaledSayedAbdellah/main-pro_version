@@ -6,11 +6,12 @@
     <description>Most recent changes with links to updates.</description>
     <language>en</language>
       <item>
-        <title>Version 2.0</title>
+        <title>Version 1.1.0</title>
+        <description>desc</description>
         <link>https://play.google.com/store/apps/details?id=com.Musllaha</link>
         <sparkle:version>1.1.30</sparkle:version>
         <pubDate>Sat, 13 Nov 2022 15:20:11 +0000</pubDate>
-        <enclosure url="https://play.google.com/store/apps/details?id=com.Musllaha" type="application/octet-stream"/>
+        <enclosure url="https://play.google.com/store/apps/details?id=com.Musllaha" sparkle:version="1.0.0" sparkle:os="android"/>
       </item>
   </channel>
 </rss>
